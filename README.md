@@ -1,4 +1,4 @@
-****🔐 Emr3Code – 2 Aşamalı Doğrulama Sistemi****
+## **🔐 Emr3Code – 2 Aşamalı Doğrulama Sistemi**
 
 **Proje, bir kullanıcının gerçek bir insan mı yoksa otomatik bir bot mu olduğunu ayırt etmeyi amaçlayan, hafif ve etkili bir 2 aşamalı doğrulama (2FA) uygulamasıdır. Özellikle basit bot saldırılarına karşı ek bir güvenlik katmanı sağlamak için tasarlanmıştır.**
 
