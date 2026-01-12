@@ -1,0 +1,75 @@
+body{
+    background: linear-gradient(to right,rgb(0, 0, 119),rgb(139, 1, 139));
+    font-family: "Candara";
+}
+
+
+.header{
+    color: #A900A9;
+    position: absolute;
+    left:37.5%;
+    top: 0%;
+    font-size: 80px;
+}
+
+.kutu1{
+    width: 12%;
+    height: 0.5cm;
+    position: relative;
+    left: 44%;
+    position: absolute;
+    top: 25%;
+    color: white;
+    border: 0px;
+    border-bottom: 3px solid white;
+    text-align: center;
+    background: transparent;
+    transition: 1s;
+}
+.kutu1:hover{
+    transition: 1s;
+    background-color: purple;
+    border-bottom: 3px solid #A900A9;
+}
+.kutu2{
+    width: 12%;
+    height: 0.5cm;
+    position: relative;
+    left: 44%;
+    position: absolute;
+    top: 40%;
+    color: white;
+    border: 0px;
+    border-bottom: 3px solid white;
+    text-align: center;
+    background: transparent;
+    transition: 1s;
+}
+.kutu2:hover{
+    transition: 1s;
+    background-color: purple;
+    border-bottom: 3px solid #A900A9;
+}
+.btnonay{
+    width: 5%;
+    height: 0.6cm;
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    position: relative;
+    top: 13cm;
+    left: 48%;
+    transition: 1s;
+}
+.btnonay:hover{
+    transition: 1s;
+    border: purple;
+    cursor: pointer;
+    background: purple;
+}
+.link{
+    color: whitesmoke;
+    margin-top: 20cm;
+    margin-left: 43.9%;
+    font-size: 24px;
+}
